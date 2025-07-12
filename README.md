@@ -9,11 +9,12 @@
 
 ## 🚀 Proyectos destacados (Resumen)
 - **Sistema de Emprendimientos basado en ciencias de la complejidad**  
-  Este sistema se basa en definir el flujo de crecimiento de un sistema de forma retroactiva,
+  Esta solución se basa en definir el flujo de crecimiento de un sistema de forma retroactiva,
   Haciendo que este mismo se regule, nutra y crezca de forma eficiente, desarrollado en Python,
   Este sistema basado e un "bot" de la plataforma de Discord, gestiona interacciones complejas,
   manejando sistemas económicos internos, regulación de aportes y autoregulación de la comunidad,
-  con el fin de alcanzar un objetivo com;un de beneficio general.  
+  con el fin de alcanzar un objetivo com;un de beneficio general. Por la naturaleza de estos proyectos
+  no puedo dar más información al respecto
 
 - **Automatización con n8n, entre otras plataformas low-code e IA**  
   Workflows inteligentes usando herramientas low-code y LLM's, generando soluciones reales para
