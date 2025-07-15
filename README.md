@@ -1,9 +1,8 @@
 # 👋 Hola, soy Sebastian Jara!
 
 🎓 Estudiante de Ingeniería de Software  
-🔧 Apasionado por sistemas open source y automatización con IA  
-🌱 Actualmente trabajando en un sistema empresarial escalable sin límites  
-🧠 Explorador de herramientas nuevas
+🔧 Apasionado por sistemas open source y automatización con IA     
+🧠 Explorandor herramientas nuevas
 
 ---
 
@@ -35,3 +34,11 @@
 ## 📫 Contacto
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-jara-carpio/)
 - 📧 Email: sebasjarac@hotmail.com
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&theme=radical)
+
