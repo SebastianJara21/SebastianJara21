@@ -3,7 +3,7 @@
 # 👋 Hola, soy Sebastian Jara!
 
 🎓 Estudiante de Ingeniería de Software  
-🔧 Apasionado por los sistemas, soluciones open source y e IA!     
+🔧 Apasionado por los sistemas, soluciones open source e IA!     
 🧠 Explorandor herramientas nuevas
 
 ---
