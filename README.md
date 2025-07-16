@@ -42,7 +42,8 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&theme=radical&cache_seconds=1)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&include_all_commits=true&count_private=true&locale=es&custom_title=Estadísticas%20de%20Sebastian&theme=radical&hide=issues,prs)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&theme=radical&cache_seconds=1)
 
 
