@@ -1,7 +1,7 @@
-**🌐 Idiomas disponibles:** [🇪🇸 Español](README.md) | [🇬🇧 English](README.en.md)
+
 
 <details>
-  <summary>🌐 Cambia el idioma</summary>
+  <summary>🌐 Cambia el idioma/Switch Languaje</summary>
 
   - 🇪🇸 [Español](README.md)
   - 🇬🇧 [English](README.en.md)
