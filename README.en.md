@@ -11,8 +11,9 @@
 - **Entrepreneurship System based on Complexity Science**  
   This solution focuses on retroactively defining the growth flow of a system,  
   allowing it to self-regulate, sustain, and evolve efficiently. Developed in Python,  
-  it's powered by a Discord bot that manages complex interactions: handling internal economies,  
-  contribution regulation, and community self-management — all geared toward achieving a  
+  this Bot based system is powered by Discord.py libraries, that allows it to manage
+  complex interactions: handling internal economies, contribution regulation,
+  and political community self-management — all geared toward achieving a  
   common goal of shared benefit. Due to the nature of these projects, I cannot disclose more details.
 
 - **Automation with n8n, low-code platforms & AI**  
