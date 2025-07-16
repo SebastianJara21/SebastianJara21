@@ -42,9 +42,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&include_all_commits=true&count_private=true&locale=es&custom_title=Estadísticas%20de%20Sebastian&theme=radical&hide=issues,prs,contribs&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&include_all_commits=true&count_private=true&locale=es&custom_title=Estadísticas%20de%20Sebastian&theme=material-palenight&hide=issues,prs,contribs&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&theme=radical&cache_seconds=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&locale=es&theme=calm&hide_border=true&cache_seconds=1)
 
 
 
