@@ -3,24 +3,25 @@
 # 👋 Hola, soy Sebastian Jara!
 
 🎓 Estudiante de Ingeniería de Software  
-🔧 Apasionado por sistemas open source y automatización con IA     
+🔧 Apasionado por los sistemas, soluciones open source y e IA!     
 🧠 Explorandor herramientas nuevas
 
 ---
 
 ## 🚀 Proyectos destacados (Resumen)
-- **Sistema de Emprendimientos basado en ciencias de la complejidad**  
+- **Sistema de Emprendimientos basado en ciencias de la complejidad**
+  **Proyecto particular**
   Esta solución se basa en definir el flujo de crecimiento de un sistema de forma retroactiva,
-  Haciendo que este mismo se regule, nutra y crezca de forma eficiente, desarrollado en Python,
-  Este sistema basado e un "bot" de la plataforma de Discord, gestiona interacciones complejas,
-  manejando sistemas económicos internos, regulación de aportes y autoregulación de la comunidad,
-  con el fin de alcanzar un objetivo com;un de beneficio general. Por la naturaleza de estos proyectos
-  no puedo dar más información al respecto
+  Haciendo que este se autoregule, nutra y crezca de forma eficiente, desarrollado en Python.
+  Este sistema basado en un "bot" de la plataforma de Discord, usando la bibioteca Discord.py, gestiona interacciones complejas,
+  manejando sistemas económicos internos, regulación de aportes y autoregulación social de la comunidad,
+  con el fin de alcanzar un objetivo común de beneficio general.
+  
 
-- **Automatización con n8n, entre otras plataformas low-code e IA**  
+- **Automatizaciónes con n8n, entre otras plataformas low-code e IA**  
   Workflows inteligentes usando herramientas low-code y LLM's, generando soluciones reales para
-  problemas complejos integrando uso multiple de APIs, webhooks, con el fin de otorgar un producto
-  o servicio a la medida para el cliente.
+  problemas complejos integrando uso multiple de APIs y webhooks útiles, con el fin de otorgar un producto
+  y servicio a la medida para el cliente.
 
 ---
 
