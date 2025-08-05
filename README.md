@@ -50,6 +50,7 @@
 
 ## 📊 Estadísticas de GitHub
 
+<img src="https://github.com/SebastianJara21/SebastianJara21/blob/main/images/stat.svg" alt="WakaTime Activity" />
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&include_all_commits=true&count_private=true&locale=es&custom_title=Estadísticas%20de%20Sebastian&theme=material-palenight&hide=issues,prs,contribs&hide_border=true)
 
