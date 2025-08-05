@@ -1,0 +1,20 @@
+name: WakaTime status update
+
+on:
+  schedule:
+    - cron: '1 0 * * *'  # Ejecuta cada día a las 00:01 UTC
+  push:
+    branches: [main]  # Cambia a "master" si tu rama principal se llama así
+
+jobs:
+  update-readme:
+    name: Update the WakaTime Stat
+    runs-on: ubuntu-latest
+    steps:
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          BRANCH: "main"
+          COMMIT_MSG: "Automated Coding Activity Update 🚀"
+          STATS_RANGE: "last_7_days"
