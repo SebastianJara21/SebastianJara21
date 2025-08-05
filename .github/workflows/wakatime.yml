@@ -1,6 +1,7 @@
 name: WakaTime status update
 
 on:
+  workflow_dispatch:  
   schedule:
     - cron: '1 0 * * *'  
   push:
@@ -10,6 +11,8 @@ jobs:
   update-readme:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  
     steps:
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
