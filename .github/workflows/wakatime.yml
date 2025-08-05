@@ -2,9 +2,9 @@ name: WakaTime status update
 
 on:
   schedule:
-    - cron: '1 0 * * *'  # Ejecuta cada día a las 00:01 UTC
+    - cron: '1 0 * * *'  
   push:
-    branches: [main]  # Cambia a "master" si tu rama principal se llama así
+    branches: [main]  
 
 jobs:
   update-readme:
