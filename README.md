@@ -1,34 +1,29 @@
-
-
 <details>
-  <summary>🌐 Cambia el idioma/Switch Languaje</summary>
+  <summary>🌐 Cambia el idioma/Switch Language</summary>
 
   - 🇪🇸 [Español](README.md)
   - 🇬🇧 [English](README.en.md)
 </details>
 
-# 👋 Hola, soy Sebastian Jara!
+# 👋 Hola, soy Sebastián!
 
-🎓 Estudiante de Ingeniería de Software  
-🔧 Apasionado por los sistemas, soluciones open source e IA!     
-🧠 Explorandor herramientas nuevas
+🎓 Estudiante de Ingeniería de Software en la Universidad Católica de Cuenca  
+🌐 Fundador del club de programador@s UCACUE y presidente del capítulo conjunto **IEEE CIS/CS (2026-2027)**  
+🔧 Apasionado por sistemas, soluciones open source, automatización y proyectos de **IA & Big Data**  
+🤝 Voluntario activo en **Google Developer Groups (GDG Ecuador)**, participando en DevFest y eventos de comunidad tech  
+🚀 Enfocado en crear proyectos con impacto social y en expandir la comunidad tecnológica en el país  
 
 ---
 
-## 🚀 Proyectos destacados (Resumen)
-- **Sistema de Emprendimientos basado en ciencias de la complejidad**
-  **Proyecto particular**
-  Esta solución se basa en definir el flujo de crecimiento de un sistema de forma retroactiva,
-  Haciendo que este se autoregule, nutra y crezca de forma eficiente, desarrollado en Python.
-  Este sistema basado en un "bot" de la plataforma de Discord, usando la bibioteca Discord.py, gestiona interacciones complejas,
-  manejando sistemas económicos internos, regulación de aportes y autoregulación social de la comunidad,
-  con el fin de alcanzar un objetivo común de beneficio general.
-  
+## 🚀 Proyectos destacados
+- **Sistema de Emprendimientos basado en ciencias de la complejidad**  
+  Proyecto en Python que modela el crecimiento retroactivo de sistemas, integrando un bot en Discord para gestionar interacciones económicas y sociales de forma autoregulada.
 
-- **Automatizaciónes con n8n, entre otras plataformas low-code e IA**  
-  Workflows inteligentes usando herramientas low-code y LLM's, generando soluciones reales para
-  problemas complejos integrando uso multiple de APIs y webhooks útiles, con el fin de otorgar un producto
-  y servicio a la medida para el cliente.
+- **Automatizaciones con n8n y plataformas low-code + IA**  
+  Workflows inteligentes que integran múltiples APIs y LLMs, ofreciendo soluciones personalizadas para clientes y comunidades.
+
+- **Panel interactivo de Bingo**  
+  Herramienta visual para mostrar en tiempo real los números cantados, el último número y la modalidad activa, pensada para dinamizar eventos y juegos.
 
 ---
 
@@ -43,8 +38,8 @@
 ---
 
 ## 📫 Contacto
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-jara-carpio/)
-- 📧 Email: sebasjarac@hotmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-jara-carpio/)  
+- 📧 Email: sebasjarac@hotmail.com  
 
 ---
 
@@ -53,6 +48,3 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&include_all_commits=true&count_private=true&locale=es&custom_title=Estadísticas%20de%20Sebastian&theme=material-palenight&hide=issues,prs,contribs&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&locale=es&theme=calm&hide_border=true&cache_seconds=1)
-
-
-
