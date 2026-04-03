@@ -5,7 +5,7 @@
   - 🇬🇧 [English](README.en.md)
 </details>
 
-# 👋 Hola, soy Sebastián!
+#  Hola, soy Sebastián!
 
 🎓 Estudiante de Ingeniería de Software en la Universidad Católica de Cuenca  
 🌐 Fundador del club de programador@s UCACUE y presidente del capítulo conjunto **IEEE CIS/CS (2026–2027)**  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 - **Sistema empresarial colaborativo basado en conceptos de ciencias de la complejidad**  
   Sistema Python (Discord Bot), basado en la autopoiesis para la completa auto-gestión de una comunidad multidisciplinaria para el desarrollo de contenido de un producto, cuya remuneración se basa  votaciones automatizadas internas de la comunidad.
 
