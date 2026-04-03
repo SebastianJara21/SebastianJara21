@@ -62,8 +62,6 @@ Focused on building impactful projects and expanding the tech ecosystem in Ecuad
 
 ## 📊 GitHub Stats
 
-## 📊 Estadísticas de GitHub
-
 <!-- Tarjeta de estadísticas principal -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&count_private=true&include_all_commits=true&theme=radical&custom_title=Estadísticas%20de%20Sebastian)
 
