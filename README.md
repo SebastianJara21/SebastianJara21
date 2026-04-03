@@ -5,10 +5,10 @@
   - 🇬🇧 [English](README.en.md)
 </details>
 
-# 👋 Hola, soy Sebastián!
+# 👋 Hola, soy Sebastián Jara!
 
 🎓 Estudiante de Ingeniería de Software en la Universidad Católica de Cuenca  
-🌐 Fundador del club de programador@s UCACUE y presidente del capítulo conjunto **IEEE CIS/CS (2026-2027)**  
+🌐 Fundador del club de programador@s UCACUE y presidente del capítulo conjunto **IEEE CIS/CS (2026–2027)**  
 🔧 Apasionado por sistemas, soluciones open source, automatización y proyectos de **IA & Big Data**  
 🤝 Voluntario activo en **Google Developer Groups (GDG Ecuador)**, participando en DevFest y eventos de comunidad tech  
 🚀 Enfocado en crear proyectos con impacto social y en expandir la comunidad tecnológica en el país  
@@ -16,14 +16,14 @@
 ---
 
 ## 🚀 Proyectos destacados
-- **Sistema de Emprendimientos basado en ciencias de la complejidad**  
-  Proyecto en Python que modela el crecimiento retroactivo de sistemas, integrando un bot en Discord para gestionar interacciones económicas y sociales de forma autoregulada.
+- **Sistema empresarial colaborativo basado en conceptos de ciencias de la complejidad**  
+  Sistema Python (Discord Bot), basado en la autopoiesis para la completa auto-gestión de una comunidad multidisciplinaria para el desarrollo de contenido de un producto, cuya remuneración se basa  votaciones automatizadas internas de la comunidad.
 
 - **Automatizaciones con n8n y plataformas low-code + IA**  
   Workflows inteligentes que integran múltiples APIs y LLMs, ofreciendo soluciones personalizadas para clientes y comunidades.
 
-- **Panel interactivo de Bingo**  
-  Herramienta visual para mostrar en tiempo real los números cantados, el último número y la modalidad activa, pensada para dinamizar eventos y juegos.
+- **Proyecto UDIPSAI**  
+  Sistema de cálculo de índices para el test WAIS para UDIPSAI, reemplazando el proceso manual de coordinacion de datos por rangos de edades y resultados de pruebas específicas, para automatizar la obtención de escalas de capacidades cognitivas.
 
 ---
 
