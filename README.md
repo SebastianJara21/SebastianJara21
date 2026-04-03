@@ -59,6 +59,20 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&include_all_commits=true&count_private=true&locale=es&custom_title=Estadísticas%20de%20Sebastian&theme=material-palenight&hide=issues,prs,contribs&hide_border=true)
+## 📊 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&locale=es&theme=calm&hide_border=true&cache_seconds=1)
+<!-- Tarjeta de estadísticas principal -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&count_private=true&include_all_commits=true&theme=radical&custom_title=Estadísticas%20de%20Sebastian)
+
+<!-- Lenguajes más usados -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- Streak (racha de contribuciones) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianJara21&theme=highcontrast&hide_border=true)
+
+<!-- Perfil resumido con íconos -->
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianJara21&theme=github_dark)
+
+<!-- Productividad por horas/días -->
+![Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SebastianJara21&theme=github_dark&utcOffset=0)
+
