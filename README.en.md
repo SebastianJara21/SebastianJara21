@@ -25,7 +25,7 @@ Focused on building impactful projects and expanding the tech ecosystem in Ecuad
 - **UDIPSAI Project**  
   Development of a calculation system for WAIS test indexes at UDIPSAI.  
   - Automates the process of coordinating data by age ranges and specific test results.  
-  - Replaces manual workflows with a scalable Python-based solution.  
+  - Replaces manual workflows with a scalable JS-TS-based solution.  
   - Generates cognitive ability scales automatically, ensuring reproducibility and efficiency in psychological diagnostics.  
 
 ---
