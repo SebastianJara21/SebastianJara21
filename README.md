@@ -5,7 +5,7 @@
   - 🇬🇧 [English](README.en.md)
 </details>
 
-# 👋 Hola, soy Sebastián Jara!
+# 👋 Hola, soy Sebastián!
 
 🎓 Estudiante de Ingeniería de Software en la Universidad Católica de Cuenca  
 🌐 Fundador del club de programador@s UCACUE y presidente del capítulo conjunto **IEEE CIS/CS (2026–2027)**  
