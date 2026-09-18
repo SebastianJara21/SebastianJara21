@@ -123,14 +123,7 @@ Proyectos que dan solución a problemas de mi día a día, como una app que cruz
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&custom_title=GitHub">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1F2328&icon_color=6E7781&text_color=424A53&bg_color=FFFFFF&custom_title=GitHub" height="160" alt="Estadísticas de GitHub">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&hide_border=true&title_color=C9D1D9&text_color=8B949E&bg_color=0D1117&custom_title=Lenguajes">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&hide_border=true&title_color=1F2328&text_color=424A53&bg_color=FFFFFF&custom_title=Lenguajes" height="160" alt="Lenguajes más usados">
-</picture>
+![Métricas](assets/github-metrics.svg)
 
 </div>
 
