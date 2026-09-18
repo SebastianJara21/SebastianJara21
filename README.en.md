@@ -1,79 +1,139 @@
-<details>
-  <summary>🌐 Change Language/Cambia el idioma</summary>
+<div align="center">
 
-  - 🇪🇸 [Español](README.md)
-  - 🇬🇧 [English](README.en.md)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-en.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-en.svg">
+  <img alt="Sebastián Jara Carpio — software developer" src="assets/banner-dark-en.svg" width="100%">
+</picture>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastian-jara-carpio/)
+[![Email](https://img.shields.io/badge/Email-161B22?style=flat&logo=maildotru)](mailto:sebasjarac@hotmail.com)
+[![Español](https://img.shields.io/badge/Español-161B22?style=flat&logo=googletranslate)](README.md)
+
+</div>
+
+---
+
+I’m in my last year of Software Engineering at the Universidad Católica de Cuenca, Ecuador. I spend most of my time building innovative projects to solve real problems, from backend development, automation, and generative AI implementation: agents, integrations, and processes that used to be done by hand.
+
+I completed my internship in CEDIA’s Artificial Intelligence area and currently chair the IEEE CIS/CS chapter at UCACUE. My current aspirations and efforts point toward data engineering, machine learning, and applied research.
+
+## Some things I’ve built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Community management bot** · Luthier de Mundos  
+`Python` `PostgreSQL` `Discord API`
+
+Runs an international community of 2,000+ people, with 300 online at once. It manages interactions and generates votes for members, removing the need for external human administration.
+
+</td>
+<td width="50%" valign="top">
+
+**WAIS test indices** · UDIPSAI  
+`Spring Boot` `TypeScript` `PostgreSQL`
+
+Computes cognitive scales that used to come from hand-crossing age-range tables. I was in charge of coordinating the development team, the architecture, and the database infrastructure.
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+**AI automations**  
+`n8n` `LLMs` `REST APIs`
+
+Workflows that connect APIs and language models for clients and communities: from form to report, with nobody copy-pasting anything.
+
+</td>
+
+<td width="50%" valign="top">
+
+**Availability calendar and more**  
+`TypeScript` `Next.js` `PostgreSQL`
+
+Projects that solve problems from my day-to-day life, such as an app that checks the schedules of several people and returns the hours that work for everyone, among others.
+
+</td>
+</tr>
+
+</table>
+
+## What I work with
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-161B22?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=white)
+![GO](https://img.shields.io/badge/GO-161B22?style=flat&logo=GO)
+
+
+**Frameworks**
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-161B22?style=flat&logo=springboot)
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-161B22?style=flat&logo=express&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-161B22?style=flat&logo=electron)
+
+**Data & infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-161B22?style=flat&logo=supabase)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat&logo=githubactions)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-161B22?style=flat&logo=gitlab)
+
+**AI & automation**
+![n8n](https://img.shields.io/badge/n8n-161B22?style=flat&logo=n8n)
+![MCP](https://img.shields.io/badge/MCP-161B22?style=flat&logo=anthropic&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20and%20agents-161B22?style=flat)
+
+## Where I’ve been
+
+|                             |                                                |             |
+| --------------------------- | ---------------------------------------------- | ----------- |
+| **CEDIA**                   | Intern, Artificial Intelligence area       | `2026`      |
+| **Luthier de Mundos**       | Developer · international initiative       | `2025`      |
+| **IEEE CIS/CS UCACUE**      | Joint chapter chair               | `2026–2027` |
+| **Codary**                  | Founding member · UCACUE programming club | `2026`     |
+| **Google Developer Groups** | Volunteer · 3+ national events             | `2024–Present`     |
+| **Freelance**               | Full-stack systems and automation           | `2023–Present`     |
+
+<details>
+<summary><b>Education & languages</b></summary>
+
+<br>
+
+**B.Sc. Software Engineering** — Universidad Católica de Cuenca · graduating 2027
+
+- Foundations of Generative Artificial Intelligence — CEDIA (40 h)
+- Backend Programming and MCP in Python for Generative AI — CEDIA (40 h)
+
+**Languages:** Spanish (native) · English C1 · Italian B1
+
 </details>
 
-# Hi, I'm Sebastián Jara!
+## Metrics
 
-🎓 Software Engineering student at Universidad Católica de Cuenca  
-🌐 Founder of **UCACUE Programmers Club** and Chair of the joint **IEEE CIS/CS Chapter (2026–2027)**  
-🔧 Passionate about open-source solutions, automation, and projects around **AI & Big Data**  
-🤝 Active volunteer at **Google Developer Groups (GDG Ecuador)**, contributing to DevFest and tech community events  
-Focused on building impactful projects and expanding the tech ecosystem in Ecuador  
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&custom_title=GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1F2328&icon_color=6E7781&text_color=424A53&bg_color=FFFFFF&custom_title=GitHub" height="160" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&hide_border=true&title_color=C9D1D9&text_color=8B949E&bg_color=0D1117&custom_title=Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&hide_border=true&title_color=1F2328&text_color=424A53&bg_color=FFFFFF&custom_title=Languages" height="160" alt="Most used languages">
+</picture>
 
-## Featured Projects
-- **Collaborative Enterprise System based on Complexity Sciences**  
-  Python-based system (Discord Bot) inspired by autopoiesis, enabling full self-management of a multidisciplinary community. It supports product content development and uses automated internal voting mechanisms to regulate community-based remuneration.
-
-- **Automations with n8n, Low-Code Platforms & AI**  
-  Smart workflows integrating multiple APIs and LLMs to deliver tailored solutions for clients and communities.
-
-- **UDIPSAI Project**  
-  Development of a calculation system for WAIS test indexes at UDIPSAI.  
-  - Automates the process of coordinating data by age ranges and specific test results.  
-  - Replaces manual workflows with a scalable JS-TS-based solution.  
-  - Generates cognitive ability scales automatically, ensuring reproducibility and efficiency in psychological diagnostics.  
+</div>
 
 ---
 
-## 🧠 Skills
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Tools & Platforms
-![n8n](https://img.shields.io/badge/n8n-ff6d00?style=for-the-badge&logo=n8n&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
-
-## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-jara-carpio/)  
-- 📧 Email: sebasjarac@hotmail.com  
-
----
-
-## 📊 GitHub Stats
-
-<!-- Tarjeta de estadísticas principal -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianJara21&show_icons=true&count_private=true&include_all_commits=true&theme=radical&custom_title=Estadísticas%20de%20Sebastian)
-
-<!-- Lenguajes más usados -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianJara21&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- Streak (racha de contribuciones) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianJara21&theme=highcontrast&hide_border=true)
-
-<!-- Perfil resumido con íconos -->
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianJara21&theme=github_dark)
-
-<!-- Productividad por horas/días -->
-![Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SebastianJara21&theme=github_dark&utcOffset=0)
-
+If any of this is useful or you want to build something together, reach out: [LinkedIn](https://www.linkedin.com/in/sebastian-jara-carpio/) · [sebasjarac@hotmail.com](mailto:sebasjarac@hotmail.com)

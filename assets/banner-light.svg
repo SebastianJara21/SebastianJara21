@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Sebastián Jara Carpio — desarrollador de software">
+  <defs>
+    <style>
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" fill="#FFFFFF"/>
+
+  <g class="mono" font-size="18">
+    <text x="72" y="72"><tspan fill="#8C959F">$ </tspan><tspan fill="#6E7781">whoami</tspan></text>
+    <text x="72" y="104" fill="#1F2328" font-size="22">Sebastián Jara Carpio — desarrollador de software</text>
+
+    <text x="72" y="152"><tspan fill="#8C959F">$ </tspan><tspan fill="#6E7781">cat ahora.txt</tspan></text>
+    <text x="72" y="184" fill="#424A53">IA generativa aplicada · backend · automatización · Cuenca, Ecuador</text>
+
+    <text x="72" y="228"><tspan fill="#8C959F">$ </tspan></text>
+  </g>
+
+  <rect x="92" y="213" width="11" height="20" fill="#A51C30">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
